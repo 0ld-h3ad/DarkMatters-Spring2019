@@ -30,15 +30,26 @@ In this course we will consider together the surveillance of Blackness and the p
   * Be open to questioning things we take for granted as normal. How can we destabilize and decenter power structures considered normal to everyday life?
   * This class mainly focuses on the lived experience of African-Americans under state surveillance technologies. If that does not reflect your lived experience consider how you may contribute to systemic anti-blackness.
   
+**Final Project**
+
+Each student will contribute a written or visual project to a zine that we will publish and produce together. The zine will be made available to visitors at the showcase. Students are encouraged to practice critical writing and to get experience having artwork or writing published. Last semester's zine can be found here.
+  
 **Guiding Questions** 
 
   * You do not need to respond to these. Have them in mind when reading and consider them after reading the text, see what comes to mind. 
 
-## Week 1 - No Class (SFPC Salon) ##
-**Thursday Sep 13**
+## Week 1 - No Class (SFPC Day 2 w/ Zach) ##
+**Tuesday Mar 12**
 
-## Week 2 - Software as Ideology ##
-**Thursday Sep 20, 10 AM**
+## Week 2 - Software as Ideology pt. 1  ##
+**Tuesday Mar 19, 10 AM**
+
+**Agenda:**
+  * Introduction - 15 mins
+  * Lecture on assigned reading - 1 hour
+  * Break - 10 mins
+  * Small group discussion - 30 mins
+  * Full group discussion - 1 hour
 
 **Reading:** [Wendy Hui Kyong Chun, “On Software or the Persistence of Visual Knowledge”](/wendy-hui-kyong-chun_on-software.pdf)
 
@@ -49,10 +60,20 @@ In this course we will consider together the surveillance of Blackness and the p
   * What are some activites in your life that are determined by what your smartphone/computer is able to do?
   * Think of your friends and family, if they were the designers of computer technology what would it do/look like?
 
-**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Sep-20 folder](/Sep-20) by midnight the day before class.
+**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Mar-19 folder]() on Dropbox Paper by midnight the day before class.
 
-## Week 3 - Black Gooey Universe ##
-**Thursday Sep 27, 10 AM**
+## Week 3 - Software as Ideology pt. 2  ##
+**Tuesday Mar 26, 10 AM**
+
+**Reading:** [Alexander Galloway, “Software as Ideology”](/)
+
+**Guiding Questions:** 
+  * TBD
+
+**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Mar-26 folder]() on Dropbox Paper by midnight the day before class.
+
+## Week 4 - Black Gooey Universe ##
+**Tuesday Apr 2, 10 AM**
 
 **Agenda:**
   * Lecture on assigned reading - 40 mins
@@ -72,8 +93,8 @@ In this course we will consider together the surveillance of Blackness and the p
   
 **Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Sep-27 folder](/sep-27) by midnight the day before class.
 
-## Week 4 - Intro to Blackness and Surveillance ##
-**Thursday Oct 4, 10 AM**
+## Week 5 - Intro to Blackness and Surveillance ##
+**Tuesday Apr 9, 10 AM**
 
 **Agenda:**
   * Lecture on assigned reading - 1 hr
@@ -90,36 +111,10 @@ In this course we will consider together the surveillance of Blackness and the p
   * What are some real life examples of different forms of veillance described by Steve Mann, such as counterveillance, sousveillance or univeillance?
   * What are some ways you have undermined or escaped surveillance in your own life?
   
-  **By Tuesday 10/2 11:59 PM:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Oct-4 folder](https://paper.dropbox.com/folder/show/Critical-Theory-Homework-Submissions-e.1gg8YzoPEhbTkrhvQwJ2zz3XHfnT6CjMZYog8hN8ssefi47qQXPD) on Dropbox Paper.
+  **Before Class:** Please submit a first draft of your essay/images. We will design and develop these works into a zine that will be available during the showcase.
 
-## Week 5 - Lecture by Melanie Hoff ##
-**Thursday Oct 11, 10 AM**
-
-**Description:** Cybernetics of Sex: Technology, Feminism, and the Choreography of Culture
-
-**Agenda:**
-  * Presentation
-  * Workshop / activity
-  * Discussion
-
-**Readings:**
-  * [The Master’s Tools Will Never Dismantle the Master’s House](/Lorde_The_Masters_Tools.pdf) by Audre Lorde, 1979
-  * [Uses of the Erotic by Audre Lorde](/SisterOutside.pdf), 1978
-  * [A Cyborg Manifesto](/a-cyborg-manifesto.pdf) by Donna Harraway, 1985; 1991
-
-## Week 6 - Critical Access Studies with Shannon Finnegan ##
-**Thursday Oct 18, 10 AM**
-
-**Description:** During this class, we'll look into Critical Access Studies. Scholar Aimi Hamraie writes, "Unlike the majority of research on access, which is about persuading people to create more of it, Critical Access Studies addresses the assumptions and strategies of those already committed to access.” We'll talk about how understandings of disability and approaches to access have shifted historically, and we'll get into some specifics of access in a digital context. 
-
-**Materials:**
-  * Video: [Social Model of Disability, Intro (Youtube)](https://www.youtube.com/watch?v=9s3NZaLhcc4&feature=youtu.be)
-  * Reading: [Carmen Papalia, "For a New Accessibility"](/Papalia_For%20a%20New%20Accessibility%20draft.pdf)
-  * Reading: [Mia Mingus, "Access Intimacy, Interdependence and Disability Justice"](https://leavingevidence.wordpress.com/2017/04/12/access-intimacy-interdependence-and-disability-justice/)
-  * Podcast & transcript: [Aimi Hamraie on *Imagine Otherwise*](https://ideasonfire.net/67-aimi-hamraie/)
-
-## Week 7 - Biometric Surveillance of Blackness ##
-**Thursday Oct 25, 10 AM**
+## Week 6 - Biometric Surveillance of Blackness ##
+**Tuesday Apr 16, 10 AM**
 
 **Agenda:**
   * Lecture on assigned reading - 45 mins
@@ -131,10 +126,26 @@ In this course we will consider together the surveillance of Blackness and the p
 
 **Reading:** [Simone Browne, "B®anding Blackness"](/SimoneBrowne_3-BrandingBlackness.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
 
-**Before Class:** Please submit a first draft of what you plan to contribute to the zine. This should be as close to final as possible. Nabil and American will provide feedback. If you are writing in the form of an essay aim for 500-1000 words, this will be a piece of writing you can potentially develop and publish in the future.
+**Before Class:** Please submit a revised draft of your essay/images. We will design and develop these works into a zine that will be available during the showcase.
+
+## Week 7 - TBD ##
+**Tuesday Apr 23, 10 AM**
+
+**Agenda:**
+  * Lecture on assigned reading - 1 hr
+  * Break - 10 mins
+  * Small group discussion of writing assignment - 30 mins
+  * Full group discussion - 1 hour
+
+**Reading:** [TBD]()
+
+**Guiding Questions:** 
+  * TBD
+  
+**Before Class:** Please submit a revised draft of your essay/images. We will design and develop these works into a zine that will be available during the showcase.
 
 ## Week 8 - Algorithmic Policing ##
-**Thursday Nov 1, 10 AM**
+**Tuesday Apr 30, 10 AM**
 
 **Agenda:**
   * Lecture on assigned reading - 1 hr
@@ -150,11 +161,11 @@ In this course we will consider together the surveillance of Blackness and the p
   * How do our predictions of the future shape what is possible within it?
   * How else might daily life be determined by the relationship between "law enforcement, the university, the Department of Defense, and Silicon Valley"?
  
-**Before Class:** Please submit your final draft of what you plan to contribute to the zine. We will design and develop these works into a zine that will be available during the showcase.
+**Before Class:** Please submit a final draft of your essay/images. We will design and develop these works into a zine that will be available during the showcase.
   
-## Week 9 - No Class (Showcase) ##
-**Thursday Nov 8**
+## Week 9 - No Class (Artist Toolkit) ##
+**Tuesday May 7**
 
-## Week 10 - No Class (Artist Toolkit) ##
-**Thursday Nov 15**
+## Week 10 - No Class (Showcase) ##
+**Tuesday May 14**
   
