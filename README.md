@@ -2,9 +2,9 @@
 
 **Instructor:** American Artist | [americanartist.us](http://americanartist.us/) | [americanartist.us@gmail.com](mailto:americanartist.us@gmail.com)\
 **Teaching Assistant:** Nabil Hassein | [@NabilHassein](https://twitter.com/nabilhassein?lang=en) | [nabil.hassein@gmail.com](nabil.hassein@gmail.com)\
-**Track:** Critical Theory, Fall 2018\
+**Track:** Critical Theory, Spring 2019\
 **Location:** School for Poetic Computation | [sfpc.io](http://sfpc.io/codesocieties/) | 155 Bank St, New York, NY 10014 \
-**Time:** Thursdays at 10 AM\
+**Time:** Tuesdays at 10 AM\
 **Office Hours:** [Sign Up Here](https://docs.google.com/spreadsheets/d/1_orhfALLK9tgv7gv9tJSEWwRO1b3MIMJ5XGznpGmpYM/edit#gid=0)
 
 **Class Schedule:** \
@@ -21,7 +21,7 @@ Nov 15: No class – Artist Toolkit
 
 **Course Description**
 
-In this course we will consider together the surveillance of Blackness and the positioning of white as neutral within interfaces as forms of violence perpetuated by high technology. We will discuss how we all can use computational systems to create change while holding them accountable to their origins and biases. For this course we will be reading Simone Browne and other critical theorists to understand how these structures are compromised so that we can begin to imagine what an outside to them might look like. We will also use the practices of artists critiquing (and expanding the imaginary within) technology as examples of how radical imagination can be evoked through artistic practice. In the month of October there will be lectures by Melanie Hoff and Shannon Finnegan.
+In this course we will consider together the surveillance of Blackness and the positioning of white as neutral within interfaces as forms of violence perpetuated by high technology. We will discuss how we all can use computational systems to create change while holding them accountable to their origins and biases. For this course we will be reading Simone Browne and other critical theorists to understand how these structures are compromised so that we can begin to imagine what an outside to them might look like. We will also use the practices of artists critiquing (and expanding the imaginary within) technology as examples of how radical imagination can be evoked through artistic practice. 
 
 **Expectations & Goals**
 
