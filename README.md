@@ -5,19 +5,19 @@
 **Track:** Critical Theory, Spring 2019\
 **Location:** School for Poetic Computation | [sfpc.io](http://sfpc.io/codesocieties/) | 155 Bank St, New York, NY 10014 \
 **Time:** Tuesdays at 10 AM\
-**Office Hours:** [Sign Up Here](https://docs.google.com/spreadsheets/d/1_orhfALLK9tgv7gv9tJSEWwRO1b3MIMJ5XGznpGmpYM/edit#gid=0)
+**Office Hours:** [Sign Up Here](https://docs.google.com/spreadsheets/d/1Av2LC9OT7tCaz3FzadoKp_kvZnnGMeovKSPhajGUBnM/edit?usp=sharing)
 
 **Class Schedule:** \
-Sep 13: No class – SFPC Salon \
-Sep 20: [Software as Ideology](#week-2---software-as-ideology) \
-Sep 27: [Black Gooey Universe](#week-3---black-gooey-universe) \
-Oct 4: [Intro to Blackness and Surveillance](#week-4---intro-to-blackness-and-surveillance) \
-Oct 11: [Lecture by Melanie Hoff](#week-5---lecture-by-melanie-hoff) \
-Oct 18: [Critical Access Studies with Shannon Finnegan](#week-6---critical-access-studies-with-shannon-finnegan) \
-Oct 25: [Biometric Surveillance of Blackness](#week-7---biometric-surveillance-of-blackness) \
-Nov 1: [Algorithmic Policing](#week-8---algorithmic-policing) \
-Nov 8: No class – Showcase \
-Nov 15: No class – Artist Toolkit 
+Mar 12: No class – SFPC Day 2 \
+Mar 19: [Software as Ideology](#week-2---software-as-ideology) \
+Mar 26: [The Silicon Valley of Dreams](#week-3---the-silicon-valley-of-dreams) \
+Apr 2: [Black Gooey Universe](#week-4---black-gooey-universe) \
+Apr 9: [Intro to Blackness and Surveillance](#week-5---intro-to-blackness-and-surveillance) \
+Apr 16: [Biometric Surveillance of Blackness](#week-6---biometric-surveillance-of-blackness) \
+Apr 23: [Intro to Carceral Capitalism](#week-7---intro-to-carceral-capitalism) \
+Apr 30: [Algorithmic Policing](#week-8---algorithmic-policing) \
+May 7: No class – Showcase \
+May 14: No class – Artist Toolkit 
 
 **Course Description**
 
@@ -38,7 +38,7 @@ Each student will contribute a written or visual project to a zine that we will 
 
   * You do not need to respond to these. Have them in mind when reading and consider them after reading the text, see what comes to mind. 
 
-## Week 1 - No Class (SFPC Day 2 w/ Zach) ##
+## Week 1 - No Class (SFPC Day 2) ##
 **Tuesday Mar 12**
 
 ## Week 2 - Software as Ideology  ##
