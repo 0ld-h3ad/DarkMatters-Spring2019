@@ -97,7 +97,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * What is the role or use of abstract thinking in various labor/liberation struggles?
   * Have you ever used technology that you were embarrassed or ashamed to have—broken or obsolete devices? Do you still feel the same way?
   
-**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Sep-27 folder](/) on Dropbox Paper by midnight the day before class.
+**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Apr-2 folder]() on Dropbox Paper by midnight the day before class.
 
 ## Week 5 - Intro to Blackness and Surveillance ##
 **Tuesday Apr 9, 10 AM**
@@ -118,7 +118,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * What are some real life examples of different forms of veillance described by Steve Mann, such as counterveillance, sousveillance or univeillance?
   * What are some ways you have undermined or escaped surveillance in your own life?
   
-  **Before Class:** Please submit a first draft of your essay/images. We will design and develop these works into a zine that will be available during the showcase.
+  **Before Class:** Please submit a first draft of your essay/images to the [Zine-Draft folder]() on Dropbox Paper by midnight the day before class. Nabil and American will provide feedback.
 
 ## Week 6 - Biometric Surveillance of Blackness ##
 **Tuesday Apr 16, 10 AM**
@@ -131,7 +131,7 @@ Each student will contribute a written or visual project to a zine that we will 
 
 **Reading:** [Simone Browne, "B®anding Blackness"](/SimoneBrowne_3-BrandingBlackness.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
 
-**Before Class:** Please submit a revised draft of your essay/images. We will design and develop these works into a zine that will be available during the showcase.
+**Before Class:** Please submit a revised draft of your essay/images to the [Zine-Draft folder]() on Dropbox Paper by midnight the day before class. Nabil and American will provide feedback.
 
 ## Week 7 - Intro to Carceral Capitalism ##
 **Tuesday Apr 23, 10 AM**
@@ -147,7 +147,7 @@ Each student will contribute a written or visual project to a zine that we will 
 **Guiding Questions:** 
   * TBD
   
-**Before Class:** Please submit a revised draft of your essay/images. We will design and develop these works into a zine that will be available during the showcase.
+**Before Class:** Please submit a revised draft of your essay/images to the [Zine-Draft folder]() on Dropbox Paper by midnight the day before class. Nabil and American will provide feedback.
 
 ## Week 8 - Algorithmic Policing ##
 **Tuesday Apr 30, 10 AM**
@@ -166,7 +166,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * How do our predictions of the future shape what is possible within it?
   * How else might daily life be determined by the relationship between "law enforcement, the university, the Department of Defense, and Silicon Valley"?
  
-**Before Class:** Please submit a final draft of your essay/images. We will design and develop these works into a zine that will be available during the showcase.
+**Before Class:** Please submit a final draft of your essay/images to the [Zine-Final folder]() on Dropbox Paper by midnight the day before class. We will design and develop these works into a zine that will be available during the showcase.
   
 ## Week 9 - No Class (Artist Toolkit) ##
 **Tuesday May 7**
