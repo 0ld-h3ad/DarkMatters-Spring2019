@@ -92,6 +92,8 @@ Each student will contribute a written or visual project to a zine that we will 
 
 **Reading:** [American Artist, “Black Gooey Universe”](/UNBAG_2_AmericanArtist.pdf)
 
+* Further Reading: [Imamu Amiri Baraka (LeRoi Jones), "Technology and Ethos vol. 2"](http://www.marilynnance.com/titanic/baraka.html)
+
 **Guiding Questions:** 
   * (Carrying this over from last week:) Think of your friends and family, if they were the designers of computer technology what would it do/look like?
   * How do you determine when something seemingly innocuous (like changing from a black screen to white screen) is coded violence rather than a coincidence?
