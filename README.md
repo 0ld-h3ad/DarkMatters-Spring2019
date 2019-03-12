@@ -32,7 +32,7 @@ In this course we will consider together the surveillance of Blackness and the p
   
 **Final Project**
 
-Each student will contribute a written or visual project to a zine that we will publish and produce together. The zine will be made available to visitors at the showcase. Students are encouraged to practice critical writing and to get experience having artwork or writing published. Last semester's zine can be found here.
+Each student will contribute a written or visual project to a zine that we will publish and produce together. The zine will be made available to visitors at the showcase. Students are encouraged to practice critical writing and to get experience having artwork or writing published. Last semester's zine can be found [here](/Critical_Theory_Zine_spreads.pdf).
   
 **Guiding Questions** 
 
@@ -41,7 +41,7 @@ Each student will contribute a written or visual project to a zine that we will 
 ## Week 1 - No Class (SFPC Day 2 w/ Zach) ##
 **Tuesday Mar 12**
 
-## Week 2 - Software as Ideology pt. 1  ##
+## Week 2 - Software as Ideology  ##
 **Tuesday Mar 19, 10 AM**
 
 **Agenda:**
@@ -62,10 +62,16 @@ Each student will contribute a written or visual project to a zine that we will 
 
 **Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Mar-19 folder]() on Dropbox Paper by midnight the day before class.
 
-## Week 3 - Software as Ideology pt. 2  ##
+## Week 3 - The Silicon Valley of Dreams  ##
 **Tuesday Mar 26, 10 AM**
 
-**Reading:** [Alexander Galloway, “Software as Ideology”](/)
+**Agenda:**
+  * Lecture on assigned reading - 1 hour
+  * Break - 10 mins
+  * Small group discussion - 30 mins
+  * Full group discussion - 1 hour
+
+**Reading:** [David Naguib Pellow and Lisa Sun-Hee Park, “Early History and the Struggle for Resources”]() from [*The Silicon Valley of Dreams*](https://www.amazon.com/gp/product/0814767109/ref=ox_sc_saved_title_1?smid=ATVPDKIKX0DER&psc=1)
 
 **Guiding Questions:** 
   * TBD
@@ -79,8 +85,8 @@ Each student will contribute a written or visual project to a zine that we will 
   * Lecture on assigned reading - 40 mins
   * Artist lecture by American - 40 mins
   * Break - 10 mins
-  * Small group discussion of writing assignment - 20 mins
-  * Full group discussion - 1 hour
+  * Small group discussion - 30 mins
+  * Full group discussion - 45 mins
 
 **Reading:** [American Artist, “Black Gooey Universe”](/UNBAG_2_AmericanArtist.pdf)
 
@@ -91,7 +97,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * What is the role or use of abstract thinking in various labor/liberation struggles?
   * Have you ever used technology that you were embarrassed or ashamed to have—broken or obsolete devices? Do you still feel the same way?
   
-**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Sep-27 folder](/sep-27) by midnight the day before class.
+**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Sep-27 folder](/) on Dropbox Paper by midnight the day before class.
 
 ## Week 5 - Intro to Blackness and Surveillance ##
 **Tuesday Apr 9, 10 AM**
@@ -99,8 +105,9 @@ Each student will contribute a written or visual project to a zine that we will 
 **Agenda:**
   * Lecture on assigned reading - 1 hr
   * Break - 10 mins
-  * Small group discussion of writing assignment - 30 mins
+  * Small group discussion - 30 mins
   * Full group discussion - 1 hour
+  * **Saturday Apr 11** (optional) -  Field trip to see American's show *I’m Blue (If I Was █████ I Would Die)* at [Koenig & Clinton](http://koenigandclinton.com/)
 
 **Reading:** [Simone Browne, "Introduction, and Other Dark Matters"](/SimoneBrowne_Intro-DarkMatters.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
 
@@ -117,24 +124,22 @@ Each student will contribute a written or visual project to a zine that we will 
 **Tuesday Apr 16, 10 AM**
 
 **Agenda:**
-  * Lecture on assigned reading - 45 mins
-  * Guest artist lecture by [Sondra Perry](http://sondraperry.com/) - 30 mins
-  * Q&A with Sondra - 15 mins
+  * Lecture on assigned reading - 1 hour
   * Break - 10 mins
-  * Group discussion - 1 hour
-  * **Field trip to Performance Space:** - [*A Wild Ass Beyond: ApocalypseRN*](https://performancespacenewyork.org/shows/a-wild-ass-beyond-apocalypsern/) Exhibition, 2:30 PM
+  * Small group discussion - 30 mins
+  * Full group discussion - 1 hour
 
 **Reading:** [Simone Browne, "B®anding Blackness"](/SimoneBrowne_3-BrandingBlackness.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
 
 **Before Class:** Please submit a revised draft of your essay/images. We will design and develop these works into a zine that will be available during the showcase.
 
-## Week 7 - TBD ##
+## Week 7 - Intro to Carceral Capitalism ##
 **Tuesday Apr 23, 10 AM**
 
 **Agenda:**
   * Lecture on assigned reading - 1 hr
   * Break - 10 mins
-  * Small group discussion of writing assignment - 30 mins
+  * Small group discussion - 30 mins
   * Full group discussion - 1 hour
 
 **Reading:** [TBD]()
