@@ -113,7 +113,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * Full group discussion - 1 hour
   * **Saturday Apr 11** (optional) -  Field trip to see American's show *I’m Blue (If I Was █████ I Would Die)* at [Koenig & Clinton](http://koenigandclinton.com/)
 
-**Reading:** [Simone Browne, "Introduction, and Other Dark Matters"](/Dark Matters- On the Surveillance of Blackness_Simone Browne.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
+**Reading:** [Simone Browne, "Introduction, and Other Dark Matters"](/DarkMatters-OntheSurveillanceofBlackness_SimoneBrowne.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
 
 **Guiding Questions:** 
   * Browne says “epidermalization here is the imposition of race on the body.” How is race imposed on individuals by how are they seen in society?
@@ -133,7 +133,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * Small group discussion - 30 mins
   * Full group discussion - 1 hour
 
-**Reading:** [Simone Browne, "B®anding Blackness"](/Dark Matters- On the Surveillance of Blackness_Simone Browne.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
+**Reading:** [Simone Browne, "B®anding Blackness"](/DarkMatters-OntheSurveillanceofBlackness_SimoneBrowne.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
 
 **Before Class:** Please submit a revised draft of your essay/images to the [Zine-Draft folder]() on Dropbox Paper by midnight the day before class. Nabil and American will provide feedback.
 
