@@ -53,6 +53,8 @@ Each student will contribute a written or visual project to a zine that we will 
 
 **Reading:** [Wendy Hui Kyong Chun, “On Software or the Persistence of Visual Knowledge”](/wendy-hui-kyong-chun_on-software.pdf)
 
+* Further Reading: [Alexander Galloway, "Software as Ideology"](/galloway_alexander_software-as-ideology.pdf) from [*The Interface Effect*](https://www.wiley.com/en-us/The+Interface+Effect-p-9780745662527)
+
 **Guiding Questions:** 
   * Is there a real distinction between software and hardware or is it just semantic?
   * Why and how has white male fragility been central to the development of technology?
