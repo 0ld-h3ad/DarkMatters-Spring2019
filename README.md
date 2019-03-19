@@ -73,10 +73,13 @@ Each student will contribute a written or visual project to a zine that we will 
   * Small group discussion - 30 mins
   * Full group discussion - 1 hour
 
-**Reading:** [David Naguib Pellow and Lisa Sun-Hee Park, “Early History and the Struggle for Resources”]() from [*The Silicon Valley of Dreams*](https://www.amazon.com/gp/product/0814767109/ref=ox_sc_saved_title_1?smid=ATVPDKIKX0DER&psc=1)
+**Reading:** [David Naguib Pellow and Lisa Sun-Hee Park, “Early History and the Struggle for Resources”](/SiliconValley_2_EarlyHistory.pdf) from [*The Silicon Valley of Dreams*](https://www.amazon.com/gp/product/0814767109/ref=ox_sc_saved_title_1?smid=ATVPDKIKX0DER&psc=1)
 
 **Guiding Questions:** 
-  * TBD
+  * What are some similarities between the ethos that drove the gold rush and the ethos of Silicon Valley?
+  * Based on the history of environmental injustice in Santa Clara and San Jose, what do you think the future of that region will be like?
+  * Where was your family in 1769?
+  * How did race/gender/citizenship impact one’s life during the gold rush 
 
 **Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Mar-26 folder]() on Dropbox Paper by midnight the day before class.
 
