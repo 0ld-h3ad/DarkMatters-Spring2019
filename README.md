@@ -6,6 +6,7 @@
 **Location:** School for Poetic Computation | [sfpc.io](http://sfpc.io/codesocieties/) | 155 Bank St, New York, NY 10014 \
 **Time:** Tuesdays at 10 AM\
 **Office Hours:** [Sign Up Here](https://docs.google.com/spreadsheets/d/1Av2LC9OT7tCaz3FzadoKp_kvZnnGMeovKSPhajGUBnM/edit?usp=sharing)
+**Homework Submission**: [Find the appropriate week here](https://paper.dropbox.com/folder/show/Homework-submissions-e.1gg8YzoPEhbTkrhvQwJ2zzxYEonubJlt03YTqK3AcnMSxrFTvIkM)
 
 **Class Schedule:** \
 Mar 12: No class – SFPC Day 2 \
@@ -114,7 +115,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * Break - 10 mins
   * Small group discussion - 30 mins
   * Full group discussion - 1 hour
-  * **Saturday Apr 11** (optional) -  Field trip to see American's show *I’m Blue (If I Was █████ I Would Die)* at [Koenig & Clinton](http://koenigandclinton.com/)
+  * **Saturday Apr 13** (optional) -  Field trip to see American's show *I’m Blue (If I Was █████ I Would Die)* at [Koenig & Clinton](http://koenigandclinton.com/)
 
 **Reading:** [Simone Browne, "Introduction, and Other Dark Matters"](/DarkMatters-OntheSurveillanceofBlackness_SimoneBrowne.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
 
