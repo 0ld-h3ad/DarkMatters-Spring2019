@@ -99,7 +99,7 @@ Each student will contribute a written or visual project to a zine that we will 
 * Further Reading: [Imamu Amiri Baraka (LeRoi Jones), "Technology and Ethos vol. 2"](http://www.marilynnance.com/titanic/baraka.html)
 
 **Guiding Questions:** 
-  * (Carrying this over from last week:) Think of your friends and family, if they were the designers of computer technology what would it do/look like?
+  * (Carrying this over from week 2:) Think of your friends and family, if they were the designers of computer technology what would it do/look like?
   * How do you determine when something seemingly innocuous (like changing from a black screen to white screen) is coded violence rather than a coincidence?
   * Think about where members of your family were 100 or 200 years ago. What forms of technology did they use or were used against them?
   * What is the role or use of abstract thinking in various labor/liberation struggles?
