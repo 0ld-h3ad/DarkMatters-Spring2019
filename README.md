@@ -5,7 +5,7 @@
 **Track:** Critical Theory, Spring 2019\
 **Location:** School for Poetic Computation | [sfpc.io](http://sfpc.io/codesocieties/) | 155 Bank St, New York, NY 10014 \
 **Time:** Tuesdays at 10 AM\
-**Office Hours:** [Sign Up Here](https://docs.google.com/spreadsheets/d/1Av2LC9OT7tCaz3FzadoKp_kvZnnGMeovKSPhajGUBnM/edit?usp=sharing)
+**Office Hours:** [Sign Up Here](https://docs.google.com/spreadsheets/d/1Av2LC9OT7tCaz3FzadoKp_kvZnnGMeovKSPhajGUBnM/edit?usp=sharing)\
 **Homework Submission**: [Find the appropriate week here](https://paper.dropbox.com/folder/show/Homework-submissions-e.1gg8YzoPEhbTkrhvQwJ2zzxYEonubJlt03YTqK3AcnMSxrFTvIkM)
 
 **Class Schedule:** \
