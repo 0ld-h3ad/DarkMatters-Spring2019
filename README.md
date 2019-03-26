@@ -1,7 +1,7 @@
 # Dark Matters
 
 **Instructor:** American Artist | [americanartist.us](http://americanartist.us/) | [americanartist.us@gmail.com](mailto:americanartist.us@gmail.com)\
-**Teaching Assistant:** Nabil Hassein | [@NabilHassein](https://twitter.com/nabilhassein?lang=en) | [nabil.hassein@gmail.com](nabil.hassein@gmail.com)\
+**Teaching Assistant:** Nabil Hassein | [nabilhassein.github.io](https://nabilhassein.github.io) | [nabil.hassein@gmail.com](nabil.hassein@gmail.com)\
 **Track:** Critical Theory, Spring 2019\
 **Location:** School for Poetic Computation | [sfpc.io](http://sfpc.io/codesocieties/) | 155 Bank St, New York, NY 10014 \
 **Time:** Tuesdays at 10 AM\
@@ -63,7 +63,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * What are some activites in your life that are determined by what your smartphone/computer is able to do?
   * Think of your friends and family, if they were the designers of computer technology what would it do/look like?
 
-**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Week 2](https://paper.dropbox.com/folder/show/Week-2-e.1gg8YzoPEhbTkrhvQwJ2zzxYEonubJfTWDKcTv7bWAWQgaFDajvO) on Dropbox Paper by midnight the day before class.
+**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Week 2 folder](https://paper.dropbox.com/folder/show/Week-2-e.1gg8YzoPEhbTkrhvQwJ2zzxYEonubJfTWDKcTv7bWAWQgaFDajvO) on Dropbox Paper by midnight the day before class.
 
 ## Week 3 - The Silicon Valley of Dreams  ##
 **Tuesday Mar 26, 10 AM**
@@ -82,7 +82,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * Where was your family in 1769?
   * What are some ways you are privileged by settler colonial violence?
 
-**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Week 3](https://paper.dropbox.com/folder/show/Week-3-e.1gg8YzoPEhbTkrhvQwJ2zzxYCCWdER6Fu6avJDcoLIuZs0PH5DVr) on Dropbox Paper by midnight the day before class.
+**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Week 3 folder](https://paper.dropbox.com/folder/show/Week-3-e.1gg8YzoPEhbTkrhvQwJ2zzxYCCWdER6Fu6avJDcoLIuZs0PH5DVr) on Dropbox Paper by midnight the day before class.
 
 ## Week 4 - Black Gooey Universe ##
 **Tuesday Apr 2, 10 AM**
@@ -105,7 +105,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * What is the role or use of abstract thinking in various labor/liberation struggles?
   * Have you ever used technology that you were embarrassed or ashamed to have—broken or obsolete devices? Do you still feel the same way?
   
-**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Week 4](https://paper.dropbox.com/folder/show/Week-4-e.1gg8YzoPEhbTkrhvQwJ2zzxYCD5gXos1zaB6YVhSLzhdTDkY3OPr) on Dropbox Paper by midnight the day before class.
+**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Week 4 folder](https://paper.dropbox.com/folder/show/Week-4-e.1gg8YzoPEhbTkrhvQwJ2zzxYCD5gXos1zaB6YVhSLzhdTDkY3OPr) on Dropbox Paper by midnight the day before class.
 
 ## Week 5 - Intro to Blackness and Surveillance ##
 **Tuesday Apr 9, 10 AM**
