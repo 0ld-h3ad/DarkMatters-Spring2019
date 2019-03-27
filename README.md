@@ -76,6 +76,8 @@ Each student will contribute a written or visual project to a zine that we will 
 
 **Reading:** [David Naguib Pellow and Lisa Sun-Hee Park, “Early History and the Struggle for Resources”](/SiliconValley_2_EarlyHistory.pdf) from [*The Silicon Valley of Dreams*](https://www.amazon.com/gp/product/0814767109/ref=ox_sc_saved_title_1?smid=ATVPDKIKX0DER&psc=1)
 
+* Further Reading: Chapters 3 + 4 from this book.
+
 **Guiding Questions:** 
   * What are some similarities between the ethos that drove the gold rush and the ethos of Silicon Valley?
   * Based on the history of environmental injustice in Santa Clara and San Jose, what do you think the future of that region will be like?
@@ -96,7 +98,10 @@ Each student will contribute a written or visual project to a zine that we will 
 
 **Reading:** [American Artist, “Black Gooey Universe”](/UNBAG_2_AmericanArtist.pdf)
 
-* Further Reading: [Imamu Amiri Baraka (LeRoi Jones), "Technology and Ethos vol. 2"](http://www.marilynnance.com/titanic/baraka.html)
+* Further Reading: 
+  * [Imamu Amiri Baraka (LeRoi Jones), "Technology and Ethos vol. 2"](http://www.marilynnance.com/titanic/baraka.html)
+  * [Ryan Kuo, Project Description for "The Pointer"](https://rkuo.net/)
+  * ["Afro-pessimism: An Introduction"](/Afro-Pessimism.pdf)
 
 **Guiding Questions:** 
   * (Carrying this over from week 2:) Think of your friends and family, if they were the designers of computer technology what would it do/look like?
