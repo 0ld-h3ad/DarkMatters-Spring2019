@@ -101,6 +101,7 @@ Each student will contribute a written or visual project to a zine that we will 
 * Further Reading: 
   * [Imamu Amiri Baraka (LeRoi Jones), "Technology and Ethos vol. 2"](http://www.marilynnance.com/titanic/baraka.html)
   * [Ryan Kuo, Project Description for "The Pointer"](https://rkuo.net/)
+  * [American Artist, "A nETwoRK___of SLAVES~\~\~\*\*\*\"](AA_spreads_3-5_hi.pdf)
   * ["Afro-pessimism: An Introduction"](/Afro-Pessimism.pdf)
 
 **Guiding Questions:** 
