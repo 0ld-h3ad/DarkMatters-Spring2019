@@ -119,11 +119,17 @@ Each student will contribute a written or visual project to a zine that we will 
 **Agenda:**
   * Lecture on assigned reading - 1 hr
   * Break - 10 mins
-  * Small group discussion - 30 mins
+  * Visiting Artist: RAFiA Santana - 30 mins
   * Full group discussion - 1 hour
-  * **Saturday Apr 13** (optional) -  Field trip to see American's show *I’m Blue (If I Was █████ I Would Die)* at [Koenig & Clinton](http://koenigandclinton.com/)
+  * **Saturday Apr 13, 11:00 AM** (optional) -  Field trip to see American's show *I’m Blue (If I Was █████ I Would Die)* at [Koenig & Clinton](http://koenigandclinton.com/)\
+  1329 Willoughby Ave\
+  Brooklyn, NY 11237
 
 **Reading:** [Simone Browne, "Introduction, and Other Dark Matters"](/DarkMatters-OntheSurveillanceofBlackness_SimoneBrowne.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
+
+* Further Reading: 
+  * ["Meet RAFiA Santana, the Multimedia Artist Working GIFs and Grubhub for the Greater Good," Teen Vogue](https://www.teenvogue.com/story/rafia-santana-fresh-finds)
+  * ["Abstraction, the Irreconcilable: An Interview with American Artist," Open Set](http://www.open-set.com/krcohen/essay-clusters/abstraction-the-irreconcilable-an-interview-with-american-artist/)
 
 **Guiding Questions:** 
   * Browne says “epidermalization here is the imposition of race on the body.” How is race imposed on individuals by how are they seen in society?
