@@ -166,7 +166,11 @@ Each student will contribute a written or visual project to a zine that we will 
 **Reading:** [Jackie Wang, pp. 11-56 of "Introduction"](/JackieWang_Introduction_CarceralCapitalism.pdf) from [Carceral Capitalism](https://www.amazon.com/Carceral-Capitalism-Semiotext-Intervention-Jackie/dp/1635900026/ref=sr_1_1?s=books&ie=UTF8&qid=1534947351&sr=1-1&keywords=carceral+capitalism+jackie+wang)
 
 **Guiding Questions:** 
-  * TBD
+  * How many people do you know that are or were in jail or prison?
+  * Should “innocence” determine whether someone is worthy of punishment?
+  * What kind of debt are you in and how much is it? Did you have an expectation of taking on debt as part of adulthood?
+  * What are the consequences of increasing automation and the information economy as it is described in the text?
+  * How does Wang distinguish “gratuitous violence” from other state-sanctioned violence, and why?
   
 **Before Class:** Please submit a revised draft of your essay/images to the [Zine-Draft folder](https://paper.dropbox.com/folder/show/Zine-Draft-e.1gg8YzoPEhbTkrhvQwJ2zzxYCD5gXoGlqT56bmu2bkHaQvtSVnqU) on Dropbox Paper by midnight the day before class. Nabil and American will provide feedback.
 
