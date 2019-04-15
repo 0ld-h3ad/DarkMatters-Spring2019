@@ -163,7 +163,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * Small group discussion - 30 mins
   * Full group discussion - 1 hour
 
-**Reading:** [TBD]()
+**Reading:** [Jackie Wang, pp. 11-56 of "Introduction"](/JackieWang_Introduction_CarceralCapitalism.pdf) from [Carceral Capitalism](https://www.amazon.com/Carceral-Capitalism-Semiotext-Intervention-Jackie/dp/1635900026/ref=sr_1_1?s=books&ie=UTF8&qid=1534947351&sr=1-1&keywords=carceral+capitalism+jackie+wang)
 
 **Guiding Questions:** 
   * TBD
