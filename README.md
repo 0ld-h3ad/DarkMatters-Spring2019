@@ -172,7 +172,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * What are the consequences of increasing automation and the information economy as it is described in the text?
   * How does Wang distinguish “gratuitous violence” from other state-sanctioned violence, and why?
   
-**Before Class:** Please submit a revised draft of your essay/images to the [Zine-Draft folder](https://paper.dropbox.com/folder/show/Zine-Draft-e.1gg8YzoPEhbTkrhvQwJ2zzxYCD5gXoGlqT56bmu2bkHaQvtSVnqU) on Dropbox Paper by midnight the day before class. Nabil and American will provide feedback.
+**Before Class:** Please submit a revised draft of your essay/images to the [Zine Final Drafts folder](https://paper.dropbox.com/folder/show/Zine-Final-Drafts-e.1gg8YzoPEhbTkrhvQwJ2zzxWbNI0CAQgIL46H84GueFlcfAxgPMU) on Dropbox Paper by midnight the day before class. Nabil and American will provide feedback.
 
 ## Week 8 - Algorithmic Policing ##
 **Tuesday Apr 30, 10 AM**
@@ -191,7 +191,7 @@ Each student will contribute a written or visual project to a zine that we will 
   * How do our predictions of the future shape what is possible within it?
   * How else might daily life be determined by the relationship between "law enforcement, the university, the Department of Defense, and Silicon Valley"?
  
-**Before Class:** Please submit a final draft of your essay/images to the [Zine-Final folder](https://paper.dropbox.com/folder/show/Zine-Draft-e.1gg8YzoPEhbTkrhvQwJ2zzxYCD5gXoGlqT56bmu2bkHaQvtSVnqU) on Dropbox Paper by midnight the day before class. We will design and develop these works into a zine that will be available during the showcase.
+**Before Class:** Please submit a final draft of your essay/images to the [Zine Final Drafts folder](https://paper.dropbox.com/folder/show/Zine-Final-Drafts-e.1gg8YzoPEhbTkrhvQwJ2zzxWbNI0CAQgIL46H84GueFlcfAxgPMU) on Dropbox Paper by midnight the day before class. We will design and develop these works into a zine that will be available during the showcase.
   
 ## Week 9 - No Class (Artist Toolkit) ##
 **Tuesday May 7**
